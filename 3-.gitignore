@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+.coverage
+.env
+*.pyc
+benchmarks/results_llm.json
