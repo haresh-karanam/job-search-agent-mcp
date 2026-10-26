@@ -1,0 +1,10 @@
+{
+ "passed": 30,
+ "total": 30,
+ "latency_ms_median": 1.14,
+ "latency_ms_p95": 1.42,
+ "cost_usd_per_run": 0.0,
+ "failures": [],
+ "kind": "OFFLINE DEMO CHECK. Rule-based parser, synthetic adverts, no LLM. Not evidence of LLM or real-world quality.",
+ "note": "Cost is 0 because no model is called."
+}
