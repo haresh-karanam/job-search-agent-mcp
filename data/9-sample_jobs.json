@@ -1,0 +1,1405 @@
+[
+ {
+  "id": "J001",
+  "title": "BI Analyst Intern",
+  "company": "Hollin Systems",
+  "location": "Leeds",
+  "salary_gbp": 22000,
+  "type": "internship",
+  "skills": [
+   "dbt",
+   "pandas",
+   "python",
+   "rag",
+   "sql"
+  ],
+  "description": "BI Analyst Intern working with dbt, pandas, python on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J002",
+  "title": "Data Analyst Intern",
+  "company": "Kestrel Health",
+  "location": "London",
+  "salary_gbp": 23000,
+  "type": "internship",
+  "skills": [
+   "excel",
+   "pandas",
+   "python",
+   "rag"
+  ],
+  "description": "Data Analyst Intern working with excel, pandas, python on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J003",
+  "title": "Analytics Placement Student",
+  "company": "Hollin Systems",
+  "location": "Cambridge",
+  "salary_gbp": 26000,
+  "type": "internship",
+  "skills": [
+   "aws",
+   "python",
+   "r",
+   "rag",
+   "scikit-learn",
+   "sql",
+   "tensorflow"
+  ],
+  "description": "Analytics Placement Student working with aws, python, r on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J004",
+  "title": "Data Science Intern",
+  "company": "Brightwater Logistics",
+  "location": "Edinburgh",
+  "salary_gbp": 30000,
+  "type": "internship",
+  "skills": [
+   "nlp",
+   "pandas",
+   "python",
+   "rag",
+   "sql"
+  ],
+  "description": "Data Science Intern working with nlp, pandas, python on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J005",
+  "title": "Data Engineer Intern",
+  "company": "Marlow Energy",
+  "location": "Manchester",
+  "salary_gbp": 29000,
+  "type": "internship",
+  "skills": [
+   "airflow",
+   "dbt",
+   "excel",
+   "pandas",
+   "python",
+   "tableau",
+   "tensorflow"
+  ],
+  "description": "Data Engineer Intern working with airflow, dbt, excel on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J006",
+  "title": "Data Science Intern",
+  "company": "Quayside Finance",
+  "location": "Edinburgh",
+  "salary_gbp": 27000,
+  "type": "internship",
+  "skills": [
+   "aws",
+   "docker",
+   "pandas",
+   "scikit-learn",
+   "sql",
+   "statistics",
+   "tableau"
+  ],
+  "description": "Data Science Intern working with aws, docker, pandas on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J007",
+  "title": "Analytics Placement Student",
+  "company": "Marlow Energy",
+  "location": "Birmingham",
+  "salary_gbp": 29000,
+  "type": "internship",
+  "skills": [
+   "airflow",
+   "pandas",
+   "python",
+   "pytorch",
+   "r",
+   "spark",
+   "statistics"
+  ],
+  "description": "Analytics Placement Student working with airflow, pandas, python on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J008",
+  "title": "BI Analyst Intern",
+  "company": "Alder Retail",
+  "location": "Leeds",
+  "salary_gbp": 26000,
+  "type": "internship",
+  "skills": [
+   "airflow",
+   "python",
+   "sql",
+   "tableau"
+  ],
+  "description": "BI Analyst Intern working with airflow, python, sql on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J009",
+  "title": "AI Engineer Intern",
+  "company": "Linden Robotics",
+  "location": "Birmingham",
+  "salary_gbp": 26000,
+  "type": "internship",
+  "skills": [
+   "fastapi",
+   "pandas",
+   "pytorch",
+   "scikit-learn",
+   "spark",
+   "statistics",
+   "tableau"
+  ],
+  "description": "AI Engineer Intern working with fastapi, pandas, pytorch on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J010",
+  "title": "BI Analyst Intern",
+  "company": "Marlow Energy",
+  "location": "Bristol",
+  "salary_gbp": 24000,
+  "type": "internship",
+  "skills": [
+   "dbt",
+   "langchain",
+   "pandas",
+   "python",
+   "r",
+   "scikit-learn",
+   "tableau"
+  ],
+  "description": "BI Analyst Intern working with dbt, langchain, pandas on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J011",
+  "title": "Data Analyst Intern",
+  "company": "Tarn Software",
+  "location": "London",
+  "salary_gbp": 30000,
+  "type": "internship",
+  "skills": [
+   "airflow",
+   "git",
+   "nlp",
+   "python",
+   "sql"
+  ],
+  "description": "Data Analyst Intern working with airflow, git, nlp on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J012",
+  "title": "Data Engineer Intern",
+  "company": "Oakham Media",
+  "location": "Cambridge",
+  "salary_gbp": 25000,
+  "type": "internship",
+  "skills": [
+   "airflow",
+   "dbt",
+   "numpy",
+   "python",
+   "r",
+   "sql",
+   "statistics"
+  ],
+  "description": "Data Engineer Intern working with airflow, dbt, numpy on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J013",
+  "title": "Data Science Intern",
+  "company": "Tarn Software",
+  "location": "London",
+  "salary_gbp": 27000,
+  "type": "internship",
+  "skills": [
+   "airflow",
+   "numpy",
+   "python",
+   "r",
+   "scikit-learn",
+   "sql"
+  ],
+  "description": "Data Science Intern working with airflow, numpy, python on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J014",
+  "title": "Data Science Intern",
+  "company": "Fenwick Labs",
+  "location": "Manchester",
+  "salary_gbp": 29000,
+  "type": "internship",
+  "skills": [
+   "airflow",
+   "dbt",
+   "fastapi",
+   "pytorch",
+   "scikit-learn"
+  ],
+  "description": "Data Science Intern working with airflow, dbt, fastapi on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J015",
+  "title": "Data Engineer Intern",
+  "company": "Hollin Systems",
+  "location": "London",
+  "salary_gbp": 24000,
+  "type": "internship",
+  "skills": [
+   "docker",
+   "numpy",
+   "pandas",
+   "scikit-learn",
+   "sql",
+   "statistics",
+   "tensorflow"
+  ],
+  "description": "Data Engineer Intern working with docker, numpy, pandas on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J016",
+  "title": "Junior Data Analyst",
+  "company": "Hollin Systems",
+  "location": "Edinburgh",
+  "salary_gbp": 33000,
+  "type": "graduate",
+  "skills": [
+   "langchain",
+   "pandas",
+   "python",
+   "rag",
+   "scikit-learn",
+   "tensorflow"
+  ],
+  "description": "Junior Data Analyst working with langchain, pandas, python on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J017",
+  "title": "Machine Learning Intern",
+  "company": "Kestrel Health",
+  "location": "Birmingham",
+  "salary_gbp": 25000,
+  "type": "internship",
+  "skills": [
+   "dbt",
+   "docker",
+   "langchain",
+   "python",
+   "r",
+   "rag"
+  ],
+  "description": "Machine Learning Intern working with dbt, docker, langchain on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J018",
+  "title": "Junior Data Analyst",
+  "company": "Linden Robotics",
+  "location": "Edinburgh",
+  "salary_gbp": 32000,
+  "type": "graduate",
+  "skills": [
+   "git",
+   "langchain",
+   "python",
+   "pytorch",
+   "sql"
+  ],
+  "description": "Junior Data Analyst working with git, langchain, python on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J019",
+  "title": "Data Engineer Intern",
+  "company": "Oakham Media",
+  "location": "Edinburgh",
+  "salary_gbp": 22000,
+  "type": "internship",
+  "skills": [
+   "airflow",
+   "excel",
+   "numpy",
+   "python",
+   "sql",
+   "statistics"
+  ],
+  "description": "Data Engineer Intern working with airflow, excel, numpy on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J020",
+  "title": "Data Science Intern",
+  "company": "Linden Robotics",
+  "location": "Birmingham",
+  "salary_gbp": 23000,
+  "type": "internship",
+  "skills": [
+   "power bi",
+   "python",
+   "statistics",
+   "tableau"
+  ],
+  "description": "Data Science Intern working with power bi, python, statistics on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J021",
+  "title": "Data Engineer Intern",
+  "company": "Tarn Software",
+  "location": "Remote (UK)",
+  "salary_gbp": 24000,
+  "type": "internship",
+  "skills": [
+   "dbt",
+   "nlp",
+   "pandas",
+   "python",
+   "scikit-learn",
+   "spark",
+   "tableau"
+  ],
+  "description": "Data Engineer Intern working with dbt, nlp, pandas on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J022",
+  "title": "BI Analyst Intern",
+  "company": "Brightwater Logistics",
+  "location": "Leeds",
+  "salary_gbp": 24000,
+  "type": "internship",
+  "skills": [
+   "dbt",
+   "numpy",
+   "python",
+   "rag",
+   "sql"
+  ],
+  "description": "BI Analyst Intern working with dbt, numpy, python on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J023",
+  "title": "Junior Data Analyst",
+  "company": "Hollin Systems",
+  "location": "Birmingham",
+  "salary_gbp": 33000,
+  "type": "graduate",
+  "skills": [
+   "langchain",
+   "python",
+   "sql",
+   "tensorflow"
+  ],
+  "description": "Junior Data Analyst working with langchain, python, sql on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J024",
+  "title": "Machine Learning Intern",
+  "company": "Alder Retail",
+  "location": "Cambridge",
+  "salary_gbp": 30000,
+  "type": "internship",
+  "skills": [
+   "git",
+   "nlp",
+   "r",
+   "sql"
+  ],
+  "description": "Machine Learning Intern working with git, nlp, r on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J025",
+  "title": "Research Data Analyst",
+  "company": "Alder Retail",
+  "location": "Cambridge",
+  "salary_gbp": 31000,
+  "type": "graduate",
+  "skills": [
+   "airflow",
+   "python",
+   "spark",
+   "tableau"
+  ],
+  "description": "Research Data Analyst working with airflow, python, spark on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J026",
+  "title": "Data Engineer Intern",
+  "company": "Oakham Media",
+  "location": "Manchester",
+  "salary_gbp": 30000,
+  "type": "internship",
+  "skills": [
+   "docker",
+   "python",
+   "r",
+   "sql"
+  ],
+  "description": "Data Engineer Intern working with docker, python, r on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J027",
+  "title": "Research Data Analyst",
+  "company": "Oakham Media",
+  "location": "London",
+  "salary_gbp": 37000,
+  "type": "graduate",
+  "skills": [
+   "excel",
+   "power bi",
+   "pytorch",
+   "sql"
+  ],
+  "description": "Research Data Analyst working with excel, power bi, pytorch on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J028",
+  "title": "Data Science Intern",
+  "company": "Kestrel Health",
+  "location": "Bristol",
+  "salary_gbp": 30000,
+  "type": "internship",
+  "skills": [
+   "airflow",
+   "dbt",
+   "langchain",
+   "power bi",
+   "python",
+   "pytorch",
+   "spark"
+  ],
+  "description": "Data Science Intern working with airflow, dbt, langchain on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J029",
+  "title": "Research Data Analyst",
+  "company": "Brightwater Logistics",
+  "location": "Manchester",
+  "salary_gbp": 32000,
+  "type": "graduate",
+  "skills": [
+   "aws",
+   "fastapi",
+   "numpy",
+   "python",
+   "sql"
+  ],
+  "description": "Research Data Analyst working with aws, fastapi, numpy on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J030",
+  "title": "Junior Data Analyst",
+  "company": "Brightwater Logistics",
+  "location": "Remote (UK)",
+  "salary_gbp": 30000,
+  "type": "graduate",
+  "skills": [
+   "dbt",
+   "git",
+   "nlp",
+   "numpy",
+   "pytorch",
+   "sql"
+  ],
+  "description": "Junior Data Analyst working with dbt, git, nlp on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J031",
+  "title": "Machine Learning Intern",
+  "company": "Linden Robotics",
+  "location": "Edinburgh",
+  "salary_gbp": 23000,
+  "type": "internship",
+  "skills": [
+   "docker",
+   "fastapi",
+   "langchain",
+   "python",
+   "sql"
+  ],
+  "description": "Machine Learning Intern working with docker, fastapi, langchain on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J032",
+  "title": "Data Analyst Intern",
+  "company": "Hollin Systems",
+  "location": "Manchester",
+  "salary_gbp": 26000,
+  "type": "internship",
+  "skills": [
+   "dbt",
+   "docker",
+   "fastapi",
+   "python",
+   "rag",
+   "sql"
+  ],
+  "description": "Data Analyst Intern working with dbt, docker, fastapi on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J033",
+  "title": "Data Science Intern",
+  "company": "Brightwater Logistics",
+  "location": "Bristol",
+  "salary_gbp": 24000,
+  "type": "internship",
+  "skills": [
+   "pandas",
+   "python",
+   "pytorch",
+   "sql",
+   "tableau"
+  ],
+  "description": "Data Science Intern working with pandas, python, pytorch on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J034",
+  "title": "AI Engineer Intern",
+  "company": "Brightwater Logistics",
+  "location": "Manchester",
+  "salary_gbp": 24000,
+  "type": "internship",
+  "skills": [
+   "docker",
+   "nlp",
+   "python",
+   "sql",
+   "statistics"
+  ],
+  "description": "AI Engineer Intern working with docker, nlp, python on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J035",
+  "title": "Graduate Data Scientist",
+  "company": "Oakham Media",
+  "location": "London",
+  "salary_gbp": 30000,
+  "type": "graduate",
+  "skills": [
+   "airflow",
+   "dbt",
+   "pytorch",
+   "sql"
+  ],
+  "description": "Graduate Data Scientist working with airflow, dbt, pytorch on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J036",
+  "title": "BI Analyst Intern",
+  "company": "Northbridge Analytics",
+  "location": "Cambridge",
+  "salary_gbp": 26000,
+  "type": "internship",
+  "skills": [
+   "airflow",
+   "excel",
+   "langchain",
+   "numpy",
+   "pytorch",
+   "scikit-learn",
+   "sql"
+  ],
+  "description": "BI Analyst Intern working with airflow, excel, langchain on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J037",
+  "title": "Junior Data Analyst",
+  "company": "Northbridge Analytics",
+  "location": "Bristol",
+  "salary_gbp": 34000,
+  "type": "graduate",
+  "skills": [
+   "langchain",
+   "power bi",
+   "python",
+   "r",
+   "spark",
+   "sql"
+  ],
+  "description": "Junior Data Analyst working with langchain, power bi, python on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J038",
+  "title": "Data Analyst Intern",
+  "company": "Oakham Media",
+  "location": "Manchester",
+  "salary_gbp": 25000,
+  "type": "internship",
+  "skills": [
+   "power bi",
+   "python",
+   "rag",
+   "sql"
+  ],
+  "description": "Data Analyst Intern working with power bi, python, rag on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J039",
+  "title": "AI Engineer Intern",
+  "company": "Brightwater Logistics",
+  "location": "Edinburgh",
+  "salary_gbp": 24000,
+  "type": "internship",
+  "skills": [
+   "docker",
+   "excel",
+   "fastapi",
+   "langchain",
+   "power bi",
+   "python",
+   "tensorflow"
+  ],
+  "description": "AI Engineer Intern working with docker, excel, fastapi on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J040",
+  "title": "Data Analyst Intern",
+  "company": "Westgate Insurance",
+  "location": "Birmingham",
+  "salary_gbp": 23000,
+  "type": "internship",
+  "skills": [
+   "aws",
+   "dbt",
+   "python",
+   "pytorch",
+   "sql"
+  ],
+  "description": "Data Analyst Intern working with aws, dbt, python on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J041",
+  "title": "Research Data Analyst",
+  "company": "Northbridge Analytics",
+  "location": "Bristol",
+  "salary_gbp": 36000,
+  "type": "graduate",
+  "skills": [
+   "excel",
+   "python",
+   "spark",
+   "sql",
+   "tableau",
+   "tensorflow"
+  ],
+  "description": "Research Data Analyst working with excel, python, spark on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J042",
+  "title": "BI Analyst Intern",
+  "company": "Quayside Finance",
+  "location": "Birmingham",
+  "salary_gbp": 22000,
+  "type": "internship",
+  "skills": [
+   "docker",
+   "excel",
+   "power bi",
+   "python",
+   "sql",
+   "tensorflow"
+  ],
+  "description": "BI Analyst Intern working with docker, excel, power bi on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J043",
+  "title": "Data Science Intern",
+  "company": "Alder Retail",
+  "location": "Birmingham",
+  "salary_gbp": 23000,
+  "type": "internship",
+  "skills": [
+   "dbt",
+   "excel",
+   "pandas",
+   "power bi",
+   "python",
+   "pytorch",
+   "sql"
+  ],
+  "description": "Data Science Intern working with dbt, excel, pandas on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J044",
+  "title": "Analytics Placement Student",
+  "company": "Alder Retail",
+  "location": "Birmingham",
+  "salary_gbp": 30000,
+  "type": "internship",
+  "skills": [
+   "dbt",
+   "fastapi",
+   "sql",
+   "tensorflow"
+  ],
+  "description": "Analytics Placement Student working with dbt, fastapi, sql on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J045",
+  "title": "BI Analyst Intern",
+  "company": "Alder Retail",
+  "location": "London",
+  "salary_gbp": 30000,
+  "type": "internship",
+  "skills": [
+   "airflow",
+   "aws",
+   "langchain",
+   "r",
+   "scikit-learn",
+   "sql",
+   "tensorflow"
+  ],
+  "description": "BI Analyst Intern working with airflow, aws, langchain on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J046",
+  "title": "Analytics Placement Student",
+  "company": "Fenwick Labs",
+  "location": "Birmingham",
+  "salary_gbp": 27000,
+  "type": "internship",
+  "skills": [
+   "dbt",
+   "pandas",
+   "python",
+   "scikit-learn",
+   "sql"
+  ],
+  "description": "Analytics Placement Student working with dbt, pandas, python on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J047",
+  "title": "Data Engineer Intern",
+  "company": "Northbridge Analytics",
+  "location": "Remote (UK)",
+  "salary_gbp": 26000,
+  "type": "internship",
+  "skills": [
+   "dbt",
+   "r",
+   "rag",
+   "sql"
+  ],
+  "description": "Data Engineer Intern working with dbt, r, rag on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J048",
+  "title": "Data Science Intern",
+  "company": "Kestrel Health",
+  "location": "Leeds",
+  "salary_gbp": 26000,
+  "type": "internship",
+  "skills": [
+   "pandas",
+   "python",
+   "sql",
+   "statistics"
+  ],
+  "description": "Data Science Intern working with pandas, python, sql on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J049",
+  "title": "Junior Data Analyst",
+  "company": "Quayside Finance",
+  "location": "Bristol",
+  "salary_gbp": 31000,
+  "type": "graduate",
+  "skills": [
+   "fastapi",
+   "pandas",
+   "power bi",
+   "python",
+   "r",
+   "sql",
+   "tensorflow"
+  ],
+  "description": "Junior Data Analyst working with fastapi, pandas, power bi on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J050",
+  "title": "Graduate Data Scientist",
+  "company": "Linden Robotics",
+  "location": "Leeds",
+  "salary_gbp": 30000,
+  "type": "graduate",
+  "skills": [
+   "python",
+   "pytorch",
+   "r",
+   "sql",
+   "statistics"
+  ],
+  "description": "Graduate Data Scientist working with python, pytorch, r on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J051",
+  "title": "Data Engineer Intern",
+  "company": "Fenwick Labs",
+  "location": "Remote (UK)",
+  "salary_gbp": 26000,
+  "type": "internship",
+  "skills": [
+   "airflow",
+   "langchain",
+   "nlp",
+   "numpy",
+   "spark",
+   "sql"
+  ],
+  "description": "Data Engineer Intern working with airflow, langchain, nlp on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J052",
+  "title": "Data Analyst Intern",
+  "company": "Fenwick Labs",
+  "location": "Manchester",
+  "salary_gbp": 25000,
+  "type": "internship",
+  "skills": [
+   "fastapi",
+   "langchain",
+   "pandas",
+   "python",
+   "pytorch",
+   "r"
+  ],
+  "description": "Data Analyst Intern working with fastapi, langchain, pandas on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J053",
+  "title": "Machine Learning Intern",
+  "company": "Brightwater Logistics",
+  "location": "London",
+  "salary_gbp": 29000,
+  "type": "internship",
+  "skills": [
+   "airflow",
+   "git",
+   "langchain",
+   "numpy",
+   "pytorch",
+   "sql"
+  ],
+  "description": "Machine Learning Intern working with airflow, git, langchain on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J054",
+  "title": "Machine Learning Intern",
+  "company": "Brightwater Logistics",
+  "location": "Edinburgh",
+  "salary_gbp": 27000,
+  "type": "internship",
+  "skills": [
+   "fastapi",
+   "python",
+   "spark",
+   "sql"
+  ],
+  "description": "Machine Learning Intern working with fastapi, python, spark on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J055",
+  "title": "Data Science Intern",
+  "company": "Marlow Energy",
+  "location": "Edinburgh",
+  "salary_gbp": 26000,
+  "type": "internship",
+  "skills": [
+   "dbt",
+   "docker",
+   "fastapi",
+   "numpy",
+   "power bi",
+   "python"
+  ],
+  "description": "Data Science Intern working with dbt, docker, fastapi on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J056",
+  "title": "Data Science Intern",
+  "company": "Westgate Insurance",
+  "location": "Bristol",
+  "salary_gbp": 22000,
+  "type": "internship",
+  "skills": [
+   "aws",
+   "git",
+   "nlp",
+   "pandas",
+   "python",
+   "pytorch",
+   "sql"
+  ],
+  "description": "Data Science Intern working with aws, git, nlp on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J057",
+  "title": "Machine Learning Intern",
+  "company": "Northbridge Analytics",
+  "location": "Birmingham",
+  "salary_gbp": 28000,
+  "type": "internship",
+  "skills": [
+   "aws",
+   "docker",
+   "langchain",
+   "power bi",
+   "pytorch"
+  ],
+  "description": "Machine Learning Intern working with aws, docker, langchain on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J058",
+  "title": "Research Data Analyst",
+  "company": "Oakham Media",
+  "location": "London",
+  "salary_gbp": 33000,
+  "type": "graduate",
+  "skills": [
+   "airflow",
+   "aws",
+   "pandas",
+   "spark",
+   "sql"
+  ],
+  "description": "Research Data Analyst working with airflow, aws, pandas on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J059",
+  "title": "Research Data Analyst",
+  "company": "Brightwater Logistics",
+  "location": "Leeds",
+  "salary_gbp": 33000,
+  "type": "graduate",
+  "skills": [
+   "aws",
+   "docker",
+   "python",
+   "statistics",
+   "tensorflow"
+  ],
+  "description": "Research Data Analyst working with aws, docker, python on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J060",
+  "title": "Graduate Data Scientist",
+  "company": "Kestrel Health",
+  "location": "Remote (UK)",
+  "salary_gbp": 37000,
+  "type": "graduate",
+  "skills": [
+   "fastapi",
+   "nlp",
+   "numpy",
+   "pandas",
+   "power bi",
+   "python",
+   "tableau"
+  ],
+  "description": "Graduate Data Scientist working with fastapi, nlp, numpy on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J061",
+  "title": "BI Analyst Intern",
+  "company": "Quayside Finance",
+  "location": "Bristol",
+  "salary_gbp": 25000,
+  "type": "internship",
+  "skills": [
+   "excel",
+   "pandas",
+   "power bi",
+   "python",
+   "rag",
+   "sql",
+   "tableau"
+  ],
+  "description": "BI Analyst Intern working with excel, pandas, power bi on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J062",
+  "title": "Analytics Placement Student",
+  "company": "Northbridge Analytics",
+  "location": "Remote (UK)",
+  "salary_gbp": 27000,
+  "type": "internship",
+  "skills": [
+   "fastapi",
+   "langchain",
+   "power bi",
+   "python",
+   "sql"
+  ],
+  "description": "Analytics Placement Student working with fastapi, langchain, power bi on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J063",
+  "title": "Graduate Data Scientist",
+  "company": "Brightwater Logistics",
+  "location": "Bristol",
+  "salary_gbp": 36000,
+  "type": "graduate",
+  "skills": [
+   "dbt",
+   "pandas",
+   "power bi",
+   "pytorch",
+   "scikit-learn",
+   "sql"
+  ],
+  "description": "Graduate Data Scientist working with dbt, pandas, power bi on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J064",
+  "title": "Data Analyst Intern",
+  "company": "Brightwater Logistics",
+  "location": "Remote (UK)",
+  "salary_gbp": 23000,
+  "type": "internship",
+  "skills": [
+   "aws",
+   "nlp",
+   "python",
+   "sql",
+   "statistics"
+  ],
+  "description": "Data Analyst Intern working with aws, nlp, python on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J065",
+  "title": "Data Engineer Intern",
+  "company": "Fenwick Labs",
+  "location": "London",
+  "salary_gbp": 29000,
+  "type": "internship",
+  "skills": [
+   "excel",
+   "langchain",
+   "python",
+   "r",
+   "scikit-learn"
+  ],
+  "description": "Data Engineer Intern working with excel, langchain, python on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J066",
+  "title": "Data Analyst Intern",
+  "company": "Hollin Systems",
+  "location": "Birmingham",
+  "salary_gbp": 26000,
+  "type": "internship",
+  "skills": [
+   "dbt",
+   "excel",
+   "nlp",
+   "sql",
+   "tensorflow"
+  ],
+  "description": "Data Analyst Intern working with dbt, excel, nlp on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J067",
+  "title": "Data Science Intern",
+  "company": "Northbridge Analytics",
+  "location": "Bristol",
+  "salary_gbp": 22000,
+  "type": "internship",
+  "skills": [
+   "langchain",
+   "nlp",
+   "python",
+   "sql"
+  ],
+  "description": "Data Science Intern working with langchain, nlp, python on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J068",
+  "title": "Data Engineer Intern",
+  "company": "Linden Robotics",
+  "location": "Bristol",
+  "salary_gbp": 28000,
+  "type": "internship",
+  "skills": [
+   "airflow",
+   "excel",
+   "langchain",
+   "python",
+   "sql",
+   "statistics"
+  ],
+  "description": "Data Engineer Intern working with airflow, excel, langchain on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J069",
+  "title": "Data Analyst Intern",
+  "company": "Quayside Finance",
+  "location": "Leeds",
+  "salary_gbp": 28000,
+  "type": "internship",
+  "skills": [
+   "dbt",
+   "python",
+   "r",
+   "sql"
+  ],
+  "description": "Data Analyst Intern working with dbt, python, r on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J070",
+  "title": "Data Engineer Intern",
+  "company": "Linden Robotics",
+  "location": "Manchester",
+  "salary_gbp": 26000,
+  "type": "internship",
+  "skills": [
+   "git",
+   "python",
+   "r",
+   "sql"
+  ],
+  "description": "Data Engineer Intern working with git, python, r on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J071",
+  "title": "Junior Data Analyst",
+  "company": "Tarn Software",
+  "location": "Cambridge",
+  "salary_gbp": 36000,
+  "type": "graduate",
+  "skills": [
+   "excel",
+   "nlp",
+   "power bi",
+   "pytorch",
+   "r",
+   "spark",
+   "sql"
+  ],
+  "description": "Junior Data Analyst working with excel, nlp, power bi on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J072",
+  "title": "Junior Data Analyst",
+  "company": "Brightwater Logistics",
+  "location": "London",
+  "salary_gbp": 31000,
+  "type": "graduate",
+  "skills": [
+   "airflow",
+   "dbt",
+   "fastapi",
+   "power bi",
+   "python",
+   "scikit-learn",
+   "sql"
+  ],
+  "description": "Junior Data Analyst working with airflow, dbt, fastapi on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J073",
+  "title": "Data Analyst Intern",
+  "company": "Westgate Insurance",
+  "location": "Remote (UK)",
+  "salary_gbp": 24000,
+  "type": "internship",
+  "skills": [
+   "docker",
+   "fastapi",
+   "numpy",
+   "pandas",
+   "sql"
+  ],
+  "description": "Data Analyst Intern working with docker, fastapi, numpy on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J074",
+  "title": "Data Analyst Intern",
+  "company": "Quayside Finance",
+  "location": "Birmingham",
+  "salary_gbp": 23000,
+  "type": "internship",
+  "skills": [
+   "docker",
+   "git",
+   "python",
+   "spark",
+   "sql",
+   "tableau"
+  ],
+  "description": "Data Analyst Intern working with docker, git, python on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J075",
+  "title": "Data Science Intern",
+  "company": "Hollin Systems",
+  "location": "Remote (UK)",
+  "salary_gbp": 27000,
+  "type": "internship",
+  "skills": [
+   "aws",
+   "pandas",
+   "python",
+   "sql",
+   "tensorflow"
+  ],
+  "description": "Data Science Intern working with aws, pandas, python on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J076",
+  "title": "Junior Data Analyst",
+  "company": "Oakham Media",
+  "location": "Manchester",
+  "salary_gbp": 29000,
+  "type": "graduate",
+  "skills": [
+   "aws",
+   "excel",
+   "fastapi",
+   "git",
+   "python",
+   "sql"
+  ],
+  "description": "Junior Data Analyst working with aws, excel, fastapi on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J077",
+  "title": "Data Analyst Intern",
+  "company": "Marlow Energy",
+  "location": "Edinburgh",
+  "salary_gbp": 22000,
+  "type": "internship",
+  "skills": [
+   "airflow",
+   "docker",
+   "git",
+   "pandas",
+   "python",
+   "pytorch"
+  ],
+  "description": "Data Analyst Intern working with airflow, docker, git on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J078",
+  "title": "Graduate Data Scientist",
+  "company": "Brightwater Logistics",
+  "location": "Bristol",
+  "salary_gbp": 36000,
+  "type": "graduate",
+  "skills": [
+   "excel",
+   "numpy",
+   "pandas",
+   "python",
+   "r",
+   "sql"
+  ],
+  "description": "Graduate Data Scientist working with excel, numpy, pandas on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J079",
+  "title": "AI Engineer Intern",
+  "company": "Oakham Media",
+  "location": "Edinburgh",
+  "salary_gbp": 27000,
+  "type": "internship",
+  "skills": [
+   "excel",
+   "python",
+   "r",
+   "scikit-learn",
+   "sql",
+   "tableau",
+   "tensorflow"
+  ],
+  "description": "AI Engineer Intern working with excel, python, r on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ },
+ {
+  "id": "J080",
+  "title": "Analytics Placement Student",
+  "company": "Oakham Media",
+  "location": "Edinburgh",
+  "salary_gbp": 22000,
+  "type": "internship",
+  "skills": [
+   "fastapi",
+   "python",
+   "sql",
+   "tableau"
+  ],
+  "description": "Analytics Placement Student working with fastapi, python, sql on analytics projects. You will clean data, build reports and present findings to the team.",
+  "synthetic": true
+ }
+]
