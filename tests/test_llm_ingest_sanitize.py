@@ -56,7 +56,7 @@ def test_from_env(monkeypatch):
 # ---- LLM in the agent ----
 def test_llm_parse_valid():
     llm = lambda p, system=None: 'Sure: {"query": "data", "location": "london", "job_type": "internship", "min_salary": 22000}'
-    r = agent.run("anything", ["python"], llm=llm)
+    r = agent.run("data internship in London over 22k", ["python"], llm=llm)
     assert r["filters"]["location"] == "london" and all("london" in j["location"].lower() for j in r["jobs"])
 
 @pytest.mark.parametrize("reply", [
@@ -65,6 +65,8 @@ def test_llm_parse_valid():
     '{"min_salary": 99999999}',
     '{"job_type": "wizard"}',
     '{"query": "x; DROP TABLE jobs"}',
+    '{"job_type": "graduate"}',   # not stated in the request: rejected by grounding check
+    '{"min_salary": 30000}',
 ])
 def test_llm_parse_rejects_bad_output_and_falls_back(reply):
     llm = lambda p, system=None: reply
