@@ -30,7 +30,7 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 export PYTHONPATH=src
-python -m pytest --cov=src/jobsearch          # 46 tests
+python -m pytest --cov=src/jobsearch          # 48 tests
 python -m jobsearch.agent "data analyst internship in London over 22k"
 python scripts/run_benchmark.py                # offline demo check
 python scripts/mcp_client_demo.py              # starts the MCP server and calls it
@@ -109,7 +109,7 @@ Code: `store.py` (data), `tools.py`, `agent.py` (LangGraph), `api.py`, `mcp_serv
 
 | Tested here (offline) | Not tested |
 | --- | --- |
-| 46 unit tests, 96% line coverage | Any real LLM, local or hosted |
+| 48 unit tests, 96% line coverage | Any real LLM, local or hosted |
 | MCP server started over stdio and called by a real MCP client | Claude Desktop or another MCP app |
 | FastAPI app including auth, limits, bad input | Docker build and run |
 | LLM adapter and agent against a fake HTTP server and fake callables | Accuracy with real adverts |
