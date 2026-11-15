@@ -1,0 +1,16 @@
+name: jobsearch-ci
+on: [push, pull_request]
+jobs:
+  test-and-demo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Unit tests
+        run: PYTHONPATH=src python -m pytest -q --cov=src/jobsearch
+      - name: Offline benchmark check
+        run: PYTHONPATH=src python scripts/run_benchmark.py
