@@ -45,4 +45,5 @@ def main(repeat=1):
     return out
 
 if __name__ == "__main__":
-    main()
+    out = main()
+    raise SystemExit(0 if out["passed"] == out["total"] else 1)
