@@ -13,6 +13,7 @@ This is a **rebuild**. The original project was lost, so this version was writte
 | Import your own adverts (CSV/JSON) | Built and tested |
 | LLM mode (any OpenAI-compatible endpoint, e.g. a local Ollama server) | Adapter written and **tested only against a fake HTTP server**. **Never run against a real model.** |
 | Dockerfile | Written, **never built** (no Docker where this was made) |
+| GitHub Actions CI (unit tests + offline benchmark on every push and PR) | Enabled 15 Nov 2026. Run #1 passed on GitHub. |
 
 The demo numbers are **not** evidence about LLM quality or real job matching:
 
